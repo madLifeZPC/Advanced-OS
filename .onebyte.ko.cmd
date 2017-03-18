@@ -1,0 +1,1 @@
+cmd_/home/zhaopengcheng/os/device_module/src/onebyte.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zhaopengcheng/os/device_module/src/onebyte.ko /home/zhaopengcheng/os/device_module/src/onebyte.o /home/zhaopengcheng/os/device_module/src/onebyte.mod.o

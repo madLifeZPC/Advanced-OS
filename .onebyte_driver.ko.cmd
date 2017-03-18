@@ -1,0 +1,1 @@
+cmd_/home/zhaopengcheng/os/device_module/src/onebyte_driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zhaopengcheng/os/device_module/src/onebyte_driver.ko /home/zhaopengcheng/os/device_module/src/onebyte_driver.o /home/zhaopengcheng/os/device_module/src/onebyte_driver.mod.o
